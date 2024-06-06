@@ -83,6 +83,20 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2024-06-06",
+      "description": "Bank Cheque for Moringa",
+      "category": "Fees",
+      "amount": "10000",
+      "id": 13
+    },
+    {
+      "date": "2024-06-05",
+      "description": "Nike shoes",
+      "category": "Sports",
+      "amount": "24000",
+      "id": 14
     }
   ]
 }
